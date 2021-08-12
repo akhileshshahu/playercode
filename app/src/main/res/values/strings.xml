@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Akhiplayer</string>
+
+    <!-- Titles-->
+    <string name="title_songs">Songs</string>
+    <string name="title_recent">Recent</string>
+    <string name="title_tracks">Tracks</string>
+    <string name="title_playlists">Playlists</string>
+    <string name="title_albums">Albums</string>
+    <string name="title_artists">Artists</string>
+    <string name="title_genres">Genres</string>
+
+    <!-- Info Messages-->
+    <string name="info_storage_permissions_not_granted">Storage Permissions Not Granted</string>
+
+    <!-- Quantity Strings-->
+    <plurals name="number_of_songs">
+        <item quantity="one">%d song</item>
+        <item quantity="other">%d songs</item>
+    </plurals>
+    <plurals name="number_of_albums">
+        <item quantity="one">%d album</item>
+        <item quantity="other">%d albums</item>
+    </plurals>
+
+    <!--Playback Notification-->
+    <string name="notification_playback_channel_name">Playback</string>
+    <string name="notification_playback_channel_description">Controls Media Playback</string>
+
+    <!--Playback Action-->
+    <string name="playback_action_pause">Pause</string>
+    <string name="playback_action_play">Play</string>
+    <string name="playback_action_stop">Stop</string>
+    <string name="playback_action_skip_to_next">Skip</string>
+
+    <!--Categories root subtitles -->
+    <string name="subtitle_all_tracks">All Tracks</string>
+    <string name="subtitle_all_albums">All Albums</string>
+    <string name="subtitle_all_artists">All Artists</string>
+    <string name="subtitle_all_playlists">All Playlists</string>
+    <string name="subtitle_all_genres">All Genres</string>
+
+    <!--Permissions-->
+    <string name="title_need_storage_permission">Needs Storage Permission</string>
+    <string name="info_storage_permission_reason">This permission is required to access music stored in the phones storage.</string>
+
+</resources>
